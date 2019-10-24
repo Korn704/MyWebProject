@@ -36,7 +36,8 @@ object QuickSortFP extends App {
 
 ## Credit
 Sila Setthakan-anan  
-> Educated by Code Camp 4
+> Educated by Code Camp 4  
+Create Example code => https://www.geeksforgeeks.org/quick-sort
 
 ### About Author
 [My domain](https://fResult.dev)  
